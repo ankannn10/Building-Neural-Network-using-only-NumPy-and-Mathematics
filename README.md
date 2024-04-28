@@ -69,8 +69,9 @@ Makes predictions on a few test images and visualizes them using show_prediction
 
 ## Results
 ### Summary Statistics
-Accuracy = 92.000%
+Accuracy:
 ![Accuracy](MNIST/Results/Screenshot%202024-04-29%20at%201.04.23%20AM.png)
+
 
 ### Test Cases
 ![Test to identify 7](MNIST/Results/Screenshot%202024-04-29%20at%201.02.39%20AM.png)
