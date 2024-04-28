@@ -1,5 +1,5 @@
 # Building-Neural-Network-using-only-NumPy-and-Mathematics
-Implementation of neural network without the help of PyTorch or TensorFlow, using only NumPy and Mathematics.
+Building Neural Network to classify MINST dataset without the help of PyTorch or TensorFlow, using only NumPy and Mathematics.
 
 ## Objective 
 Build a neural network using only NumPy and Mathematics.
